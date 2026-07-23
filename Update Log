@@ -1,4 +1,5 @@
 # Updates Log
+7/23/2026 15:53 Version 1.7: Includes an add-on file that fixes overflow bugs
 3/26/2026 19:16 Version 1.6.2: Includes bug fixes to error messages
 3/25/2026 19:37 Version 1.6.1: Includes bug fixes to the gamma function, rad function, and the deg function.
 3/22/2026 20:05 Version 1.6: Includes a few new functions for Common Factors and Common Multiple. Contains major bug fixes.
